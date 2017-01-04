@@ -3,12 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsterlessons/02-building-api-with-node.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "4.14.0"
-  }
+  "bugs": {
+    "url": "https://github.com/monsterlessons/02-building-api-with-node/issues"
+  },
+  "homepage": "https://github.com/monsterlessons/02-building-api-with-node#readme"
 }
